@@ -9,9 +9,11 @@ find command in Windows
 ╚═╝     ╚═╝╚═╝  ╚═══╝╚═════╝  ╚═════╝
 ```
 # help
+```
 usage: findc <operation> [...]
 operations:
     findc {-h help}
     findc {-v version}
     findc {-u check update}
+```
 
